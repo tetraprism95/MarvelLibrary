@@ -32,6 +32,7 @@ class MarvelDetailsHeader: UICollectionViewCell {
     }()
     
     override init(frame: CGRect) {
+        print("About to init")
         super.init(frame: frame)
         
         backgroundColor = .red
