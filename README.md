@@ -45,7 +45,11 @@ $ git clone https://github.com/tetraprism95/MarvelLibrary.git
 ## Bugs
 
 - Few cells may have little to no information.
+- There are very few Marvel Characters Shown on screen on purpose. Can add more if user likes. **I just didn't want to add and moved on**
 
+## If Users Would Like To
+
+- Users can add a **UISearchBar** to search through the database and retrieve information upon that search query text. 
 
 
 
