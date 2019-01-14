@@ -41,6 +41,10 @@ $ git clone https://github.com/tetraprism95/MarvelLibrary.git
 - **Separate Cells**
 - **md5 Generator** in **OBJ-C** (Search md5 generator **IMPORTANT**) 
 
+## Bugs
+
+- Few cells may have little to no information.
+
 
 
 
