@@ -24,7 +24,7 @@ class MarvelCell: UICollectionViewCell {
     
     let charactersImageView: ImageViewCache = {
         let iv = ImageViewCache()
-        iv.image = #imageLiteral(resourceName: "IronMan").withRenderingMode(.alwaysOriginal)
+        iv.image = UIImage(named: "questionMark")?.withRenderingMode(.alwaysOriginal)
         iv.clipsToBounds = true
         iv.contentMode = .scaleAspectFill
         return iv

@@ -17,7 +17,7 @@ class MarvelDetailsController: UICollectionViewController, UICollectionViewDeleg
     var character: Character? {
         didSet {
             guard let character = character else { return }
-            
+
         }
     }
     
