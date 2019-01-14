@@ -40,6 +40,7 @@ $ git clone https://github.com/tetraprism95/MarvelLibrary.git
 - **URLSession** 
 - **Separate Cells**
 - **md5 Generator** in **OBJ-C** (Search md5 generator **IMPORTANT**) 
+- **LargeNavigationTitle**
 
 ## Bugs
 
