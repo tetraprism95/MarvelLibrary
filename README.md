@@ -17,7 +17,7 @@ Developing software for mainly, macOS, iOS, watchOS, and tvOS.
 
 **https://developer.marvel.com/**
 
-## Maybe Need Postman? API Development Environment
+## Need Postman? API Development Environment
 
 If you're beginner and are wondering what Postman is, it is an interactive user-friendly GUI MAKING requests and READING responses with HTTP APIs
 
